@@ -1,5 +1,5 @@
 # E-Commerce Customer Analytics: Identifying Potential Customers using EDA in Python
-### Author
+#### Author
 Tengku Azzella Irantika - 41525110015 - Program Studi Teknik Informatika 2026
 
 Mini-project Exploratory Data Analysis (EDA) untuk membantu tim marketing e-commerce mengidentifikasi profil pelanggan potensial dan menganalisis distribusi demografi serta pendapatan, sebagai bagian dari tugas mata kuliah Sains Data.
@@ -58,9 +58,3 @@ Python, Pandas, NumPy, Matplotlib, openpyxl (Jupyter Notebook)
 │   └── distribusi_setelah_cleaning.png
 └── README.md
 
-
-## Author
-**Tengku Azzella Irantika**  
-NIM: 41525110015  
-Program Studi Teknik Informatika  
-2026
